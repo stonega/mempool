@@ -286,7 +286,7 @@
       </trans-unit>
       <trans-unit id="4b137ec8bf73a47063740b75c0c40d5fd3c48015" datatype="html">
         <source>The Mempool Open Source Project</source>
-        <target>Mempool 内存池开源项目</target>
+        <target>Mempool 开源项目</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/about/about.component.html</context>
           <context context-type="linenumber">13</context>
@@ -6163,7 +6163,7 @@
       </trans-unit>
       <trans-unit id="8831611540421575858" datatype="html">
         <source>Pool Dominance</source>
-        <target>泳池霸主</target>
+        <target>内存池霸主</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/pool/pool.component.ts</context>
           <context context-type="linenumber">222</context>
@@ -6850,7 +6850,7 @@
       </trans-unit>
       <trans-unit id="time-span" datatype="html">
         <source>After <x id="DATE" equiv-text="dateStrings.i18nYear"/></source>
-        <target><x id="DATE" equiv-text="dateStrings.i18nYear"/>之后</target>
+        <target><x id="DATE" equiv-text="dateStrings.i18nYear"/>之前</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/time/time.component.ts</context>
           <context context-type="linenumber">234</context>
